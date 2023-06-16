@@ -78,6 +78,8 @@ after installation open the app and rename the XAPK changing its extension to ZI
 
 # Download programs to manage XAPK files
 
-XAPK Creator - https://github.com/Sorecchione07435/XAPKCreator_English/releases/download/xapk/XAPK.Creator.zip
-XAPK Viewer  - https://github.com/Sorecchione07435/XAPKViewer/releases/download/xapk/XAPK.Viewer.exe
-APK Editor Studio - https://qwertycube.com/apk-editor-studio/
+[XAPK Creator](https://github.com/Sorecchione07435/XAPKCreator_English/) - For Create a file XAPK
+
+[XAPK Viewer](https://github.com/Sorecchione07435/XAPKViewer) - For View a Existing XAPK
+
+[APK Editor Studio](https://qwertycube.com/apk-editor-studio) - For View APK Specifics
