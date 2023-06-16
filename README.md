@@ -18,7 +18,7 @@ And XAPKs can be created by having the APK file and OBB files of the application
 
 It is possible to view the internal contents of an XAPK file without extraction thanks to a small program called XAPK Viewer
 
-If you want to try and download XAPK Viewer go to this link:
+The link can be found at the bottom of the page
 
 # How to create an XAPK file
 
