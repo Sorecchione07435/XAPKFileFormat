@@ -35,7 +35,7 @@ and you will have to write us all the information that identifies the applicatio
 
 Here you can see the structure of a manifest.json
 
-```
+```json
 {
 "xapk_version":1,
 "package_name":"${ApplicationId}",
